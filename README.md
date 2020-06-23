@@ -8,4 +8,7 @@ A plugin heavily based on Custom List Table With Db Example by Prashant Baldha t
 ### 4-Add a feed/slug to the list on WordPress Admin backend
 ### 5-Check on forntend: example.com/podcast/?podc= [Podcast Slug]
 
+<img src="4.png" width="600">
 <img src="1.png" width="600">
+<img src="2.png" width="600">
+<img src="3.png" width="600">
