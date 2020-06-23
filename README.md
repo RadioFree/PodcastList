@@ -4,7 +4,7 @@ A plugin heavily based on Custom List Table With Db Example by Prashant Baldha t
 ## Installation
 ### 1-Upload this zip to WordPress
 ### 2-Activate Plugin
-### 3-Make sure Jetpack is Active
+### 3-Make sure Jetpack is Active, and up to date https://wptavern.com/jetack-8-5-adds-new-podcast-player-block
 ### 4-Add a feed/slug to the list on WordPress Admin backend
 ### 5-Check on forntend: example.com/podcast/?podc= [Podcast Slug]
 
